@@ -37,7 +37,7 @@
     "typescript": "^2.6.1",
     "uuid": "^3.1.0",
     "watch": "^1.0.2",
-    "ws": "^3.2.0"
+    "ws": "^5.2.4"
   },
   "bin": {
     "coin-hive-stratum": "./bin/coin-hive-stratum"
